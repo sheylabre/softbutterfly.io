@@ -631,10 +631,11 @@ nav.sticky ul li a:before { content: '' }
 }
 
 .prl-1 {
-    background: url(../images/parallax.jpg) 100% 100% no-repeat fixed;
+    background: url(../images/compu-white.jpeg) 100% 100% no-repeat fixed;
     color: #fff;
     min-height: 260px;
     height: 100%;
+    background-size: 100%;
 }
 .prlx {
     min-height: 260px;
